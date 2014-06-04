@@ -1,4 +1,4 @@
-bogo-osx
-========
+BoGo trên Mac OS X
+==================
 
-Mac OS X/Cocoa front-end to the bogo engine.
+Xem trang [Resources](https://github.com/BoGoEngine/bogo-osx/wiki/Resources) để biết thêm chi tiết.
