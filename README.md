@@ -6,10 +6,8 @@ Xem trang [Resources](https://github.com/BoGoEngine/bogo-osx/wiki/Resources) đ�
 ### Cài đặt
 
 ```
-$ python setup.py py2app
-$ cp dist/BoGo.app "~/Library/Input Methods"
+$ pip install bogo
+$ make
 ```
 
-Logout/Login sẽ thấy BoGo xuất hiện trong mục Input Sources của Settings.
-Hiện tại BoGo chưa làm gì hết mà sẽ log các key press vào system console,
-có thể xem ở Console.app.
+Logout/Login sẽ thấy BoGo xuất hiện trong mục Input Sources của Settings. Chọn BoGo và bắt đầu gõ thử trong TextEdit.
