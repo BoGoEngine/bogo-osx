@@ -58,9 +58,9 @@ def main():
 		connectionName,
 		"com.ngochin.inputmethod.BoGo")
 
-	NSBundle.loadNibNamed_owner_(
-		"MainMenu",
-		NSApplication.sharedApplication())
+	# NSBundle.loadNibNamed_owner_(
+	# 	"MainMenu",
+	# 	NSApplication.sharedApplication())
 
 	NSLog("here")
 
