@@ -5,6 +5,10 @@ Xem [Wiki](https://github.com/BoGoEngine/bogo-osx/wiki) để biết thêm chi t
 
 ### Cài đặt
 
+Tải bản đóng gói mới nhất tại trang [Releases](https://github.com/BoGoEngine/bogo-osx/releases) và làm theo hướng dẫn.
+
+Ngoài ra cũng có thể cài đặt thủ công từ mã nguồn:
+
 ```
 $ sudo pip install bogo
 $ make
