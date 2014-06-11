@@ -6,7 +6,7 @@ Xem trang [Resources](https://github.com/BoGoEngine/bogo-osx/wiki/Resources) đ�
 ### Cài đặt
 
 ```
-$ pip install bogo
+$ sudo pip install bogo
 $ make
 ```
 
