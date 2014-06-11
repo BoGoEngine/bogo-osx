@@ -57,6 +57,8 @@
 	<array>
 	<string>Latn</string>
 	</array>
+	<key>TISIntendedLanguage</key>
+	<string>vi</string>
 	<!--                                                -->
 	<!--                                                -->
 	<!--          End of required entries 				-->
